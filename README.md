@@ -10,10 +10,10 @@ An ambitious data analyst to identify and solve challenges for delivering innova
 
 . Technical Skills
 
-SQL
-Python
+- SQL
+- Python
 . Data analysis skills
 
-MS Excel
-Power BI
+- MS Excel
+- Power BI
 Looking forward to exploring the world of data analysis and leveraging my skills to make data-driven decisions!
