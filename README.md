@@ -12,8 +12,10 @@ An ambitious data analyst to identify and solve challenges for delivering innova
 
 - SQL
 - Python
+  
 . Data analysis skills
 
 - MS Excel
 - Power BI
+
 Looking forward to exploring the world of data analysis and leveraging my skills to make data-driven decisions!
